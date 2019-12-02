@@ -1,0 +1,6 @@
+REPOSITORY             TAG                 IMAGE ID            CREATED             SIZE
+linamahmuti/node-app   latest              cab14e1b8003        5 hours ago         907MB
+<none>                 <none>              e4dadf1d9ac6        5 hours ago         903MB
+node                   10                  d5680e53a228        9 days ago          903MB
+nginx                  latest              231d40e811cd        9 days ago          126MB
+hello-world            latest              fce289e99eb9        11 months ago       1.84kB
